@@ -5,7 +5,7 @@
 - 📫 How to reach me:
 > `🖼 Instagram - @Wolfyyy01
 
-> 🎬YouTube - Wolfy01
+> 🎬YouTube - @Wolfy01
 
 > 🎮Discord - !Wolfy#0592`
 
