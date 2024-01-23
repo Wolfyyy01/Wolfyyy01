@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
+
 - 👋 Hi, I’m @Wolfyyy01
 - 👀 I’m interested in game and web dev
 - 🌱 I’m currently learning JavaScript(Node.js)
