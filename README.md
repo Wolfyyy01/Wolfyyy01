@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=700&size=70&duration=4000&pause=300&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1700&height=200&lines=Hello+hello;I'm+Wolfy01,+a+Web+and+Discord+bot+Developer+%E2%9C%A9" width="80%" />
+<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=700&size=70&duration=4000&pause=300&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1700&height=200&lines=Hello+hello;I'm+Wolfy01,+a+Web+and+Discord+bot+Developer+%E2%9C%A9" width="70%" />
 </div>
 
 <div align="center">
