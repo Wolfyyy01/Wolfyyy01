@@ -8,6 +8,12 @@
 <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
 </div>
 
+</br>
+
+<img src="https://raw.githubusercontent.com/Wolfyyy01/Wolfyyy01/main/assets/zero_two.gif" />
+
+</br>
+
 - 👋 Hi, I’m @Wolfyyy01
 - 👀 I’m interested in game and web dev
 - 🌱 I’m currently learning JavaScript(Node.js)
