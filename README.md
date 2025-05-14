@@ -37,11 +37,11 @@ const Wolfy01 = {
 ### 🛰️ Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge\&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=for-the-badge\&logo=typescript\&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=for-the-badge\&logo=typescript\&logoColor=white)
 ![React](https://img.shields.io/badge/-React-000?style=for-the-badge\&logo=react)
 ![TailwindCSS](https://img.shields.io/badge/-Tailwind-000?style=for-the-badge\&logo=tailwind-css)
 ![Bun](https://img.shields.io/badge/-Bun-black?style=for-the-badge\&logo=bun)
-![Hono](https://img.shields.io/badge/-Hono-ef4f4f?style=for-the-badge\&logo=cloudflare\&logoColor=white)
+![Hono](https://img.shields.io/badge/-Hono-000?style=for-the-badge\&logo=cloudflare\&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=for-the-badge\&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/-MySQL-000?style=for-the-badge\&logo=mysql)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?style=for-the-badge\&logo=postgresql)
